@@ -1,0 +1,22 @@
+---
+title: "The relationship of Alcohol Abuse and the onset of Mental Health Problems"
+author: "Sam Ivey"
+date: "February 6, 2015"
+output: html_document
+---
+
+Introduction
+
+One of the most impactful problems we face as a society is alcohol abuse and the numerous negative outcomes associated with alcohol abuse. Excessive drinking accounts for 88,000 deaths in the United States each year and can lead to significant mental health problems (Bell, Briton). Alcohol abuse has been found to lead to anxiety, depression, and many mental issues that cause problems not only in our homes but our work place as well. The research-involved throughout this work will examine the relationship between alcohol abuse and mental health issues, specifically anxiety and depression. It will serve to answer the question “ Does alcohol abuse lead to anxiety/depression?” and will focus on what problems this may cause our society.
+
+Methods
+
+Sample: The sample information gathered included a broad variety of ethnicities and ages. Information was gathered from the AddHealth data set, which included sampling from 100 participants to thousands of participants. Information was also gathered from Methods Data from phases 5 (1997 to 1999), 7 (2002 to 2004), and 9 (2007 to 2009) of the Whitehall II prospective cohort study sampling 6,330 participants (73% men, 27% women; mean age 55.8). 
+
+Procedure: The participants involved in the surveying were either face to face with a computer answering questions or physically on paper. It involved initial research as well as many years of follow up information gathered at a later time.
+
+Measures: The abuse of alcohol and this may lead to mental illness was examined using the AddHealth Data Set. This research uses (Section 3: General Health Section 10: Feelings Scale Section 11: Household Roster Section 12: Non-Resident Biological Mother Section 13: Non-Resident Biological Father Section 14: Resident Mother Section 15: Resident Father Section 16: Relations with Parents Section 17: Motivations to Engage in Risky Behaviors, Section 18: Personality and Family Section 28: Tobacco, Alcohol, Drugs Section 34: Parents’ Attitudes). It examines the relationship of excessive alcohol use to problems perceived in the household and work environment.
+
+Implications: While alcohol abuse causes deaths everyday from physical impairment, it also threatens numerous individuals with the implication of brain damage and mental issues. Having the knowledge of how alcohol affects the brain will help prevent long-term damage inflicted on the brain. This knowledge will help individuals to be responsible in their drinking habits and to be aware of the possible dangers.
+
+
