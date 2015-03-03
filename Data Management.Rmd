@@ -1,0 +1,62 @@
+---
+title: "Data Management"
+author: "Sam Ivey"
+date: "February 19, 2015"
+output: html_document
+---
+
+While alcohol abuse causes deaths everyday from physical impairment, it also threatens numerous individuals with the implication of brain damage and mental issues. Having the knowledge of how alcohol affects the brain will help prevent long-term damage inflicted on the brain. This knowledge will help individuals to be responsible in their drinking habits and to be aware of the possible dangers. This research will explain the possible relationship between alcohol abuse and mental illness by comparing variables that show anxiety/depression coinciding with the usage of alcohol. Usage of alcohol including abuse, dependence, and amount consumed daily.
+
+
+Using NESARC data Sections 2A-2D, 4A-4C. Variables include Consumer (Drinking status), S4AQ4A12 (Has subject felt worthless most of the time for over 2 weeks?), S4AQ20A (Has subject ever drank to improve their mood?), S2AQ8E (How often does subject drink 5+ drinks of alcohol?). 
+
+Drinking Status   | # of individuals 
+------------- | -------------
+Current drinker   | 26946
+Ex-drinker  | 7881
+Lifetime Abstainer  |  8266
+
+Source Code - Consumer
+
+
+Felt Worthless Most of the Time for 2+ weeks   | # of individuals 
+------------- | -------------
+Yes | 5798
+No  | 7782
+Unknown | 173
+NA  |  29340
+
+Source Code - S4AQ4A12
+
+
+Ever Drank Alcohol to Improve Low Mood/Make Self Feel Better  | # of individuals 
+------------- | -------------
+Yes  | 1697
+N0  | 7094
+Unknown   |  26
+NA  |  34276
+
+Source Code - S4AQ20A
+
+
+How Often Drank 5+ Drinks of any Alcohol in Last 12 Months | # of individuals 
+------------- | -------------
+Every day | 356
+Nearly every day | 288
+3 to 4 times a week | 605
+2 times a week | 787
+Once a week | 950
+2 to 3 times a month | 929
+Once a month | 854
+7 to 11 times in the last year | 619
+3 to 6 times in the last year | 1169
+1 or 2 times in the last year | 1333
+Never in the last year | 18892
+Unknown | 164
+NA | 16147
+
+Source Code - S2AQ8E
+
+
+
+
